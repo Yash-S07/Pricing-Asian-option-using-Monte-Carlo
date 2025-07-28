@@ -23,7 +23,7 @@ This project is a practical application of several fundamental quantitative fina
 
 ## Example Results
 
-Running the engine demonstrates the power of the ML-enhanced approach. The output clearly shows that the variance of the control variate estimator is significantly lower than that of the standard Monte Carlo estimator, often achieving a **variance reduction of over 65%**. This means a far more stable and accurate price can be achieved with the same number of simulations.
+Running the engine demonstrates the power of the ML-enhanced approach. The output clearly shows that the variance of the control variate estimator is significantly lower than that of the standard Monte Carlo estimator, often achieving a **variance reduction of over 65%**. This means a far more stable and accurate price can be achieved with the higher number of simulations.
 
 ```
 --- Results Comparison ---
