@@ -2,7 +2,6 @@
 
 This repository contains a Python-based engine for pricing path-dependent exotic options using a high-performance Monte Carlo simulation. The key feature of this project is the implementation of a machine learning-enhanced variance reduction technique (Control Variates via Linear Regression) to achieve faster and more accurate price convergence.
 
-The project demonstrates a deep understanding of core quantitative finance concepts, including stochastic calculus, risk-neutral pricing, and advanced computational methods.
 
 <img width="1248" height="716" alt="image" src="https://github.com/user-attachments/assets/6bb1cc79-460b-4cec-9326-99be90ad9988" />
 ~Source:Stochastic Calculus for Finance II
