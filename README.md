@@ -28,6 +28,9 @@ This project is a practical application of several fundamental quantitative fina
 
 ## Example Results
 
+<img width="720" height="432" alt="Simulated Paths" src="https://github.com/user-attachments/assets/482e794e-3b55-48e8-89b1-e5893f6b429f" />
+
+
 Running the engine demonstrates the power of the ML-enhanced approach. The output clearly shows that the variance of the control variate estimator is significantly lower than that of the standard Monte Carlo estimator, often achieving a **variance reduction of over 65%**. This means a far more stable and accurate price can be achieved with the higher number of simulations.
 
 ```
