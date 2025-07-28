@@ -15,7 +15,7 @@ This repository contains a Python-based engine for pricing path-dependent exotic
 - **ML-Enhanced Variance Reduction:** Uses Linear Regression to find the optimal hedging coefficient for the Control Variates technique. This significantly reduces the variance of the Monte Carlo estimator, a critical aspect of computational efficiency.
 - **Performance Analysis:** Directly compares the variance of the standard Monte Carlo method against the ML-enhanced method to quantify the efficiency gains.
 
-## Core Concepts Demonstrated
+## Core Concepts Utilized
 
 This project is a practical application of several fundamental quantitative finance concepts:
 
